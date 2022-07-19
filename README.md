@@ -20,10 +20,10 @@
 
 ## Installation
    
-                    $git clone https://github.com/AKingevo/wifihc.git
+        $git clone https://github.com/AKingevo/wifihc.git
         
          
   ## Working    
-                    $cd wifihc
-                    $python3 wifihc.py
+        $cd wifihc   
+        $python3 wifihc.py
            
