@@ -1,5 +1,6 @@
 import subprocess as sp
 import os
+print("Maded by Tanish");
 print("\033[1;32;40m *NOTICE* use the Tool as a Root user \n");
 print("\033[2;33m Wait a Sec..... \n");
 
@@ -8,6 +9,7 @@ print(s_w_a);
 print("\n");
 
 # Wifi adapter name = w_n
+print("For Education Purpose Only");
 w_n = input("\033[1;32;40m           Type the  Wifi adapter Name which you want to use from the above : ");
 
 print("Wait a Sec...............\n");
